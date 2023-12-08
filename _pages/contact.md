@@ -36,7 +36,6 @@ layout: post
     </style>
 </head>
 <body>
-    <h1>Contact Us</h1>
 
     <form id="contactForm">
         <label for="name">Name:</label>
