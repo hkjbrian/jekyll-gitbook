@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: AttendSejong
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
+출석하세종(AttendSejong) is a mobile application designed to enhance the Jiphyeon campus(e-campus) experience by providing students with timely notifications for online classes and assignments. Our primary goal is to empower students to seamlessly navigate their online classes by delivering real-time attendance tracking and assignment management alerts, ensuring they never miss a class or a submission deadline.
 
 ## Demo
 
