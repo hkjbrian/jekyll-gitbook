@@ -1,10 +1,10 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            AttendSejong
+longtitle:        AttendSejong
+author:           Han,Zo,Kim
+email:            hkjbrian@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  AttendSejong WebPage
 
 version:          1.0
 gitbook_version:  3.2.3
