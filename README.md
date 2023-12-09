@@ -4,6 +4,38 @@ title: AttendSejong
 permalink: /
 ---
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .content {
+            max-width: 70%;
+            padding: 20px;
+        }
+
+        .image {
+            max-width: 30%;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+ <div class="image">
+        <img src="{{ site.baseurl }}/assets/logo.png" alt="Image Alt Text">
+    </div>
+</html>
+
 출석하세종 is a open source project.
 
 출석하세종(AttendSejong) is a mobile application designed to enhance the Jiphyeon campus(e-campus) experience by providing students with timely notifications for online classes and assignments. Our primary goal is to empower students to seamlessly navigate their online classes by delivering real-time attendance tracking and assignment management alerts, ensuring they never miss a class or a submission deadline.
