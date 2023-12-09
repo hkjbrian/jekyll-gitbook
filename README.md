@@ -4,10 +4,7 @@ title: AttendSejong
 permalink: /
 ---
 
-<!DOCTYPE html>
-<html lang="en">
 <head>
-    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
@@ -32,7 +29,7 @@ permalink: /
     </style>
 </head>
  <div class="image">
-        <img src="{{ site.baseurl }}/assets/logo.png" alt="Image Alt Text">
+        <img src="{{ site.baseurl }}/assets/head.png" alt="Image Alt Text">
     </div>
 </html>
 
